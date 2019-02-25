@@ -1,0 +1,35 @@
+## Cronograma
+
+- 1o Bimestre
+  - 04/03 (carnaval)
+    - TCC
+      - Introdução: Objetivos gerais
+    - Bem: formulários aplicaveis, dados sensíveis no DB e na API
+  - 11/03
+    - TCC
+      - Introdução: Objetivos específicos, fase 1 do texto da introdução
+    - Bem: Aplicar os formulários
+  - 18/03
+    - TCC
+      - Introdução: fase 2 do texto
+      - Referencial teórico: estrutura,
+      - Bem: 1a avaliação dos gráficos
+  - 25/03 TCC
+    - Introdução: fase 3 do texto
+    - Referencial: 1a Fase
+  - 01/04 TCC
+    - Introdução: revisão
+    - Referencial: 2a Fase
+  - 08/04 TCC
+    - Introdução
+    - Referencial: 3a Fase
+    - Meu trabalho: 1a fase
+  - 15/04 Pré-banca (Introdução, Referencial, Relato do meu trabalho)
+- 2o Bimestre
+  - 22/04
+  - 29/04
+  - 06/05
+  - 13/05
+  - 20/05
+  - 27/05
+  - 03/06
