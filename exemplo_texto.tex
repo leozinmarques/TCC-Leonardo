@@ -1,0 +1,39 @@
+\documentclass[
+	% -- opções da classe memoir --
+	12pt,				% tamanho da fonte
+	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	twoside,			% para impressão em recto e verso. Oposto a oneside
+	a4paper,			% tamanho do papel. 
+	% -- opções da classe abntex2 --
+	%chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	french,				% idioma adicional para hifenização
+	spanish,			% idioma adicional para hifenização
+	brazil				% o último idioma é o principal do documento
+  ]{abntex2}
+
+\usepackage{hyperref}
+
+\begin{document}
+  
+\chapter{Fase 1}
+  
+  Histórico
+
+  Portifolio
+
+  Componentes
+
+\chapter{Fase 2}
+
+  Histórico : quem criou, quem financia atualemente, onde esta publicado, como/quando a comunidade adotou
+
+\chapter{Fase 3}
+
+  O React foi criado e é mantido pelo Facebook Inc. Atualmente o código esta publicado no \url{https://github.com/facebook/react/}. 
+
+\end{document}
